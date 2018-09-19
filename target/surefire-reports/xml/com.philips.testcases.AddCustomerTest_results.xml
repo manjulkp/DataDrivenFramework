@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Customer Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="27.497">
+  <properties />
+  
+            <testcase name="addCustomerTest" time="0.0" classname="com.philips.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.philips.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="addCustomerTest" time="13.551" classname="com.philips.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="13.942" classname="com.philips.testcases.AddCustomerTest" />
+      
+</testsuite>
